@@ -1,0 +1,25 @@
+{
+    "100 Server Boosts (3 Month)": {
+        "boosts": 100,
+        "months": 3
+    },
+
+    "30 Server Boosts (3 Month)": {
+        "boosts": 30,
+        "months": 3
+    },
+
+    "14 Server Boosts (3 Month)": {
+        "boosts": 14,
+        "months": 3
+    },
+    "8 Server Boosts (3 Month)": {
+        "boosts": 8,
+        "months": 3
+    },
+
+    "6 Server Boosts (3 Month)": {
+        "boosts": 6,
+        "months": 3
+    }
+}
