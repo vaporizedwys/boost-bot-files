@@ -1,0 +1,6 @@
+colorama==0.4.4
+httpx==0.21.3
+requests==2.27.1
+discord==2.0.0
+discord.py==2.0.1
+pycord
